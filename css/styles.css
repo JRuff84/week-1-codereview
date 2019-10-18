@@ -21,13 +21,23 @@ body {
   background-color: #D6D6D6;
 }
 
+img {
+  border-radius: 8px;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: grey;
+}
+
 .column {
   width: 300px;
   float: left;
 }
 
-.image-card {
-
+.center {
+  align-items: center;
 }
 
 .padding-top {
@@ -38,10 +48,17 @@ body {
   font-weight: bold;
   font-style: italic;
 }
+
 .center-grey {
   text-align: center;
   font-weight: bold;
   color: grey;
+}
+
+.center-white {
+  text-align: center;
+  font-weight: bold;
+  color: white;
 }
 
 .center-half {
