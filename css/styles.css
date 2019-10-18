@@ -1,17 +1,12 @@
 img {
   max-width: 100%;
   height: auto;
-  border-radius: 8px;
 }
 
 body {
   font-family: sans-serif;
 }
 
-p {
-  margin-left: 12px;
-  margin-right: 12px;
-}
 
 li {
   margin-left: 12px;
@@ -23,11 +18,10 @@ body {
 }
 img.main {
   float: left;
-
 }
 
 .sidebar {
-  width: 30%;
+  width: 25%;
   float: right;
   background-color: grey;
 }
