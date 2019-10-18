@@ -21,9 +21,9 @@ li {
 body {
   background-color: #D6D6D6;
 }
-
-.float-img-left {
+img.main {
   float: left;
+
 }
 
 .sidebar {
