@@ -3,11 +3,16 @@ img {
   height: auto;
 }
 
-h1 {
+.center-grey {
   text-align: center;
   font-weight: bold;
   color: grey;
 }
+
+body {
+  font-family: sans-serif;
+}
+
 .center-half {
   display: block;
   margin-left: auto;
