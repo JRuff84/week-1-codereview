@@ -13,9 +13,12 @@ p {
 }
 
 li {
-  text-align: justify;
   margin-left: 12px;
   margin-right: 20px;
+}
+
+.padding-top {
+  padding-top: 12px;
 }
 
 .bold-italic {
