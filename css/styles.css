@@ -7,6 +7,10 @@ body {
   font-family: sans-serif;
 }
 
+p {
+  margin-left: 12px;
+  margin-right: 12px;
+}
 .center-grey {
   text-align: center;
   font-weight: bold;
