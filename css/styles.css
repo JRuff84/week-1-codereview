@@ -18,9 +18,7 @@ li {
 }
 
 body {
- background: url(images/resume-background.jpg);
- background-repeat: no-repeat;
- background-size: contain;
+  background-color: #D6D6D6;
 }
 
 .padding-top {
