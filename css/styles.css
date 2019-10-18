@@ -26,6 +26,11 @@ img.main {
   background-color: grey;
 }
 
+.sidebar-bottom {
+  height: 15;
+  float: bottom;
+  background-color: grey;
+}
 .sidebar-imagesize {
   display: block;
   margin-left: auto;
