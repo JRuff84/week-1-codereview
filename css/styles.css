@@ -3,14 +3,14 @@ img {
   height: auto;
 }
 
+body {
+  font-family: sans-serif;
+}
+
 .center-grey {
   text-align: center;
   font-weight: bold;
   color: grey;
-}
-
-body {
-  font-family: sans-serif;
 }
 
 .center-half {
