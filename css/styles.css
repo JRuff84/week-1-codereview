@@ -1,4 +1,10 @@
 img {
-  max-width: 50%;
+  max-width: 100%;
+  height: auto;
+}
+
+.center-half {
+  align-items: center;
+  max-width: 50%
   height: auto;
 }
