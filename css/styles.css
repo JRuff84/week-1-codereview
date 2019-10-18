@@ -1,6 +1,7 @@
 img {
   max-width: 100%;
   height: auto;
+  border-radius: 8px;
 }
 
 body {
@@ -21,14 +22,20 @@ body {
   background-color: #D6D6D6;
 }
 
-img {
-  border-radius: 8px;
+.float-img-left {
+  float: left;
 }
 
 .sidebar {
   width: 30%;
   float: right;
   background-color: grey;
+}
+
+.sidebar-imagesize {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .column {
